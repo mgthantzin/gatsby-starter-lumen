@@ -25,7 +25,7 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Thant Zin oo',
+    name: 'Thant Zin Oo',
     photo: '/photo.jpg',
     bio: 'An aesthete, social liberalist with big interest in psychology, political science, philosophy, economics and typography.',
     contacts: {
