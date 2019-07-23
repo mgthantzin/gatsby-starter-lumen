@@ -1,8 +1,6 @@
 ---
 title: iPhone တွင် ဇော်ဂျီသာမက ယူနီကုဒ်ပါ ဖတ်နိုင်ရန် လုပ်နည်း အဆင့်ဆင့်  
 date: 2017-06-21T14:58:00+08:00  
-template: "post"  
-draft: false  
 slug: "/posts/iphone-unicode-zawgyi-guide/"  
 category: "Article Guide"  
 tags:
@@ -11,7 +9,8 @@ tags:
   - "iOS"
   - "Myanmar"
   - "Font"  
-description: "An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts."
+description: "iPhone တွင် ဇော်ဂျီသာမက ယူနီကုဒ်ပါ ဖတ်နိုင်ရန် လုပ်နည်း အဆင့်ဆင့်
+ဤလမ်းညွှန်သည် လက်ရှိသင်၏ iPhone တွင် ဇော်ဂျီဖောင့် (ပရိုဖိုင်) နှင့် ဇော်ဂျီလက်ကွက် ကီးဘုတ် သွင်းထားသည်ဟု ယူဆသည်။"
 ---
 iPhone တွင် ဇော်ဂျီသာမက ယူနီကုဒ်ပါ ဖတ်နိုင်ရန် လုပ်နည်း အဆင့်ဆင့်
 ဤလမ်းညွှန်သည် လက်ရှိသင်၏ iPhone တွင် ဇော်ဂျီဖောင့် (ပရိုဖိုင်) နှင့် ဇော်ဂျီလက်ကွက် ကီးဘုတ် သွင်းထားသည်ဟု ယူဆသည်။
