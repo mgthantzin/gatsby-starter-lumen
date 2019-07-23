@@ -29,11 +29,11 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'An aesthete, social liberalist with big interest in psychology, political science, philosophy, economics and typography.',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '',
-      github: '#',
-      rss: '#',
+      email: 'tzo@fastmail.com',
+      telegram: 'thantzinoo',
+      twitter: 'mgthantzin',
+      github: 'mgthantzin',
+      rss: 'rss.xml',
       vkontakte: '#'
     }
   }
