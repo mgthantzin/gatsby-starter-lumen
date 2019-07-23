@@ -17,7 +17,7 @@ const Author = () => {
           href={getContactHref('twitter', author.contacts.twitter)}
           rel="noopener noreferrer"
           target="_blank"
-          style={{display:none}}
+          style={{display:'none'}}
         >
           <strong>{author.name}</strong> on Twitter
         </a>
