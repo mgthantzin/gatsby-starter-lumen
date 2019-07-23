@@ -1,6 +1,6 @@
 ---
 title: iPhone တွင် ဇော်ဂျီသာမက ယူနီကုဒ်ပါ ဖတ်နိုင်ရန် လုပ်နည်း အဆင့်ဆင့်  
-date: "2017-06-21T14:58:00+08:00"  
+date: 2017-06-21T14:58:00+08:00  
 template: "post"  
 draft: false  
 slug: "/posts/iphone-unicode-zawgyi-guide/"  
