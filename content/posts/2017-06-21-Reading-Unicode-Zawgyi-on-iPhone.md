@@ -5,6 +5,11 @@ template: "post"
 draft: false  
 slug: "/posts/ios-unicode-zawgyi-guide/"  
 category: "Guide"  
+tags:
+  - "iOS"
+  - "Myanmar"
+  - "Unicode"
+  - "Zawgyi"
 description: "iPhone တွင် ဇော်ဂျီသာမက ယူနီကုဒ်ပါ ဖတ်နိုင်ရန် လုပ်နည်း အဆင့်ဆင့် ဤလမ်းညွှန်သည် လက်ရှိသင်၏ iPhone တွင် ဇော်ဂျီဖောင့် (ပရိုဖိုင်) နှင့် ဇော်ဂျီလက်ကွက် ကီးဘုတ် သွင်းထားသည်ဟု ယူဆသည်။"  
 ---
 
