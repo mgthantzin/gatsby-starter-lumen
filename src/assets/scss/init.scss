@@ -1,17 +1,5 @@
 @charset "UTF-8";
 
-@font-face { 
-    font-family: 'Noto Sans Myanmar'; 
-    font-style: normal; 
-    font-weight: normal; 
-    src: url(//fonts.gstatic.com/ea/notosansmyanmar/v4/NotoSansMyanmar-Regular.eot); 
-    src: local('Noto Sans Myanmar'),
-      url(//fonts.gstatic.com/ea/notosansmyanmar/v4/NotoSansMyanmar-Regular.eot?#iefix) format('embedded-opentype'), 
-      url(//fonts.gstatic.com/ea/notosansmyanmar/v4/NotoSansMyanmar-Regular.woff2) format('woff2'), 
-      url(//fonts.gstatic.com/ea/notosansmyanmar/v4/NotoSansMyanmar-Regular.woff) format('woff'), 
-      url(//fonts.gstatic.com/ea/notosansmyanmar/v4/NotoSansMyanmar-Regular.ttf) format('truetype'); 
-} 
-
 @import "variables";
 @import "mixins";
 @import "base";
