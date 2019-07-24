@@ -5,10 +5,10 @@ template: "post"
 draft: false  
 slug: "/posts/rabindranath-tagore-poem/"  
 category: "Poem"
+description: "သင်၏အချစ်ကို ငါယုံကြည်ပါ၏။"
 tags:
 	- "love"
 	- "Rabindranath Tagore"
-description: "သင်၏အချစ်ကို ငါယုံကြည်ပါ၏။"
 ---
 သင်၏အချစ်ကို
   
