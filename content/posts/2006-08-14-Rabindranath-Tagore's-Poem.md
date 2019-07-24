@@ -8,7 +8,7 @@ category: "Poem"
 description: "သင်၏အချစ်ကို ငါယုံကြည်ပါ၏။"
 tags:
 	- "love"
-	- "Rabindranath Tagore"
+	- "RabindranathTagore"
 ---
 သင်၏အချစ်ကို
   
