@@ -6,8 +6,8 @@ draft: false
 slug: "/posts/misty-autumn/"  
 category: "Poem"
 tags:
-  - "autumn"
-  - "mist"
+    - "autumn"
+    - "mist"
 description: "နွေဦးကာလ၊ မြူထသောခါ ရင်းထောင်ရင်းဆွဲ၊ ဆောင်မြဲအိုးလွယ်ကာ ..."
 ---
 နွေဦးကာလ၊ မြူထသောခါ

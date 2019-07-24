@@ -6,9 +6,9 @@ draft: false
 slug: "/posts/if-british-did-not-colonize-burma/"
 category: "Article"
 tags:
-	- "British"
-	- "Burma"
-	- "history"
+    - "British"
+    - "Burma"
+    - "history"
 description: "ဗြိတိသျှသာ မြန်မာနိုင်ငံကို မသိမ်းခဲ့လျှင်"
 ---
 ဗြိတိသျှသာ မြန်မာနိုင်ငံကို မသိမ်းခဲ့လျှင် &#8230;&#8230;&#8230;

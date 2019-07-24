@@ -6,10 +6,10 @@ draft: false
 slug: "/posts/what-is-service/"  
 category: "Article"
 tags:
-	- "service"
-	- "product"
-	- "definition"
-	- "comparison"
+    - "service"
+    - "product"
+    - "definition"
+    - "comparison"
 description: "ဝန်ဆောင်မှုကို ထုတ်လုပ်ချိန်တွင် ဝယ်ယူသူသည် ထုတ်လုပ်သည့် စနစ်တွင် ရှိရမည်။"
 ---
 **ဝန်ဆောင်မှုဆိုတာ ဘာလဲ။**
