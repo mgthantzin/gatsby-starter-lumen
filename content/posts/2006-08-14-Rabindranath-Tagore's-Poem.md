@@ -7,7 +7,8 @@ slug: "/posts/rabindranath-tagore-poem/"
 category: "Poem"
 description: "သင်၏အချစ်ကို ငါယုံကြည်ပါ၏။"
 tags:
-	- "love"
+    - "love"
+    - "Rabindranath Tagore"
 ---
 
 သင်၏အချစ်ကို
