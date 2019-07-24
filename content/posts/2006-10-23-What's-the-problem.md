@@ -1,8 +1,19 @@
 ---
 title: ပြဿနာက ဘာလဲ။
 date: 2006-10-23T23:54:00+00:00
-categories:
-  - Article
+template: "post"  
+draft: false  
+slug: "/posts/what-is-the-issue/"  
+category: "Article"
+tags:
+    - "people"
+    - "behaviour"
+    - "perception"
+    - "perspective"
+    - "psychology"
+    - "inner dialogue"
+    - "automatic thought"
+description: "**ဖြစ်ရပ်(၁)** McDonald ရဲ့ Promotion အရုပ်ကလေး ဝယ်ဖို့ သင်တန်းစီနေတာ ၁ နာရီနီးပါးရှိပြီ။"
 ---
 **ဖြစ်ရပ်(၁)**
 

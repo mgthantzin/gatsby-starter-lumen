@@ -1,9 +1,16 @@
 ---
 title: နားထောင်ခြင်း
 date: 2006-11-03T23:52:55+00:00
-categories:
-  - Article
-  - Note
+template: "post"  
+draft: false  
+slug: "/posts/types-of-listening/"  
+category: "Article"
+tags:
+    - "listening"
+    - "psychology"
+    - "interpersonal"
+    - "communication"
+description: "နားထောင်ခြင်း ၆ မျိုးရှိသတဲ့။"
 ---
 နားထောင်ခြင်း ၆ မျိုးရှိသတဲ့။
 

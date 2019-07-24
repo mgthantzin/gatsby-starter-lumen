@@ -1,8 +1,19 @@
 ---
 title: ပရလောက
 date: 2006-10-06T11:27:56+00:00
-categories:
-  - Note
+template: "post"  
+draft: false  
+slug: "/posts/the-other-side/"  
+category: "Note"
+tags:
+    - "spirit"
+    - "ghost"
+    - "apprition"
+    - "beach"
+    - "Chaung Tha"
+    - "night"
+    - "paranormal"
+description: "သရဲ မြင်ဘူးလားလို့ မေးရင်းတော့ Yes and No ပါပဲ။ ဘာလို့ဆို ကိုယ်မြင်လိုက်တာက လူတစ်ယောက်လဲ ဖြစ်နိုင်သလို သရဲတစ်ကောင်လည်း ဖြစ်နိုင်လို့ပါ။" 
 ---
 သရဲ မြင်ဘူးလားလို့ မေးရင်းတော့ Yes and No ပါပဲ။ ဘာလို့ဆို ကိုယ်မြင်လိုက်တာက လူတစ်ယောက်လဲ ဖြစ်နိုင်သလို သရဲတစ်ကောင်လည်း ဖြစ်နိုင်လို့ပါ။ 
 
